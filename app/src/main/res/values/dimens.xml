@@ -1,0 +1,15 @@
+<!--
+  ~ /*
+  ~  * Created by Murillo Comino on 15/09/19 15:35
+  ~  * Github: github.com/MurilloComino
+  ~  * StackOverFlow: pt.stackoverflow.com/users/128573
+  ~  * Email: murillo_comino@hotmail.com
+  ~  *
+  ~  * Copyright (c) 2019 . All rights reserved.
+  ~  * Last modified 15/09/19 15:35
+  ~  */
+  -->
+
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+</resources>
