@@ -19,11 +19,22 @@ in URL put: https://github.com/MurilloComino/android-runtime-request-permissions
 and then clone
 ```
 
+## Installing
+* Connect via usb your android phone.
+* After cloning the project, open the terminal and navigate to the root folder.
+
+#### Windows
+````
+gradlew installDebug
+````
+#### Linux & MacOS
+````
+./gradlew installDebug
+````
+
 ## Example
 ![](https://github.com/MurilloComino/android-runtime-request-permissions/blob/master/resources/1.gif?raw=true)
-
 ![](https://github.com/MurilloComino/android-runtime-request-permissions/blob/master/resources/2.gif?raw=true)
-
 ![](https://github.com/MurilloComino/android-runtime-request-permissions/blob/master/resources/3.gif?raw=true)
 
 ## Built With
