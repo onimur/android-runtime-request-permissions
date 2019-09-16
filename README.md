@@ -33,9 +33,9 @@ gradlew installDebug
 ````
 
 ## Example
-![](https://github.com/MurilloComino/android-runtime-request-permissions/blob/master/resources/1.gif?raw=true)
-![](https://github.com/MurilloComino/android-runtime-request-permissions/blob/master/resources/2.gif?raw=true)
-![](https://github.com/MurilloComino/android-runtime-request-permissions/blob/master/resources/3.gif?raw=true)
+![](resources/1.gif)
+![](resources/2.gif)
+![](resources/3.gif)
 
 ## Built With
 
